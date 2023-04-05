@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15146019970",
+    "project_id": "projectapp-d2389",
+    "storage_bucket": "projectapp-d2389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15146019970:android:72c86e79e1d2843804189b",
+        "android_client_info": {
+          "package_name": "com.snacked.projectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15146019970-61gv8m15aj5vgfkas7887v9ke02djh00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMRpIeevGlqBO6IHbJ9oihHPQBWboObc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15146019970-61gv8m15aj5vgfkas7887v9ke02djh00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
